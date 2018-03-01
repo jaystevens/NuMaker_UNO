@@ -74,8 +74,8 @@
                   "architecture": "nuvoton",
                   "version": "1.6.11",
                   "category": "Arduino",
-                  "url": "https://raw.githubusercontent.com/jaystevens/NuMaker_UNO/master/nuvoton-1.6.10r6674.tar.gz",
-                  "archiveFileName": "nuvoton-1.6.10r6674.tar.gz",
+                  "url": "https://raw.githubusercontent.com/jaystevens/NuMaker_UNO/master/nuvoton-1.6.11.tar.gz",
+                  "archiveFileName": "nuvoton-1.6.11.tar.gz",
                   "checksum": "SHA-256:ee484b080d52c0af9930585260b49864e0438ec0150b1b58c5e92dbe1d3a7703",
                   "size": "2538407",
                   "boards": [
