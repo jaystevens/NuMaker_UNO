@@ -72,7 +72,7 @@
                 {
                   "name": "NuMaker UNO (32-bits NUC131 Cortex-M0)",
                   "architecture": "nuvoton",
-                  "version": "1.6.10.6674",
+                  "version": "1.6.11",
                   "category": "Arduino",
                   "url": "https://raw.githubusercontent.com/jaystevens/NuMaker_UNO/master/nuvoton-1.6.10r6674.tar.gz",
                   "archiveFileName": "nuvoton-1.6.10r6674.tar.gz",
