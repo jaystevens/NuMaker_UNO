@@ -1,6 +1,9 @@
 # NuMaker UNO board package for Arduino IDE
 This repository contains the package descriptor for NuMaker UNO board
 
+## 1.6.10r6674 ##
+- added updated NuLink build r6674 *jason*
+
 ## Board Package Installation Steps
 1. Download Arduino 1.6.10 IDE from https://www.arduino.cc/en/Main/Software
 2. Extract arduino-1.6.10-windows.zip
